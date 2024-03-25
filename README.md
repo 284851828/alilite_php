@@ -1,5 +1,10 @@
+## 目标
+
+
+### 原理
 "# alilite_php" 
 
+```c
 
 <?php
 
@@ -8,7 +13,10 @@ require_once 'GatewaySdk.php';
 $appId = "999999"; //   App ID  向客户经理申请
 
 $sdk = new GatewaySdk($appId);
-```c
+
+
+
+
 $payload = [
     'timestamp' => 1711347382,
     'content' => [
