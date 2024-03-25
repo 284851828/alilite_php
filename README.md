@@ -59,10 +59,11 @@ try {
 
 
 申请 APPID
-![申请 APPID](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/github_8888.png)
+ 
+<img src="https://raw.githubusercontent.com/284851828/alilite_nodejs/main/github_8888.png" width = 250 height = 250>
 
 联系客服
-![联系客服](https://raw.githubusercontent.com/284851828/alilite_nodejs/main/wx.jpg)
 
+<img src="https://raw.githubusercontent.com/284851828/alilite_nodejs/main/wx.jpg" width = 300 height = 300>
 
-
+ 
